@@ -1,0 +1,11 @@
+# Python module cache files
+*.pyc
+
+# Package cache directory
+src/imagenome/__pycache__/
+
+# Package egg-info directory
+src/imagenome.egg-info/
+
+# Virtual environment directory
+venv/
