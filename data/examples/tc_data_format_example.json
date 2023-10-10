@@ -1,0 +1,1 @@
+[["This is an example of an abstract text concerning research on radiopharmaceuticals", {"cats": {"POSITIVE_NUCL_MED": true, "NEGATIVE_NUCL_MED": false}}], ["This is an example of another abstract text that does not concern research on radiopharmaceuticals", {"cats": {"POSITIVE_NUCL_MED": false, "NEGATIVE_NUCL_MED": true}}]]

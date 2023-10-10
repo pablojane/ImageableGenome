@@ -1,0 +1,10 @@
+{
+  "exclusive_classes":true,
+  "architecture":"ensemble",
+  "labels":[
+    "POSITIVE_NUCL_MED",
+    "NEGATIVE_NUCL_MED"
+  ],
+  "pretrained_vectors":"en_core_sci_md_vectors",
+  "pretrained_dims":200
+}
