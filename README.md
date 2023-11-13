@@ -94,7 +94,7 @@ make html
 ## Data Use & License
 All data used in this pipeline are obtained from the
 NLM MEDLINE/Pubmed baseline dataset ("Courtesy of the U.S. National Library of Medicine",
-https://www.nlm.nih.gov/databases/download/pubmed_medline.html) and were only used  for meta-analysis / systematic review purposes.
+https://www.nlm.nih.gov/databases/download/pubmed_medline.html) and were only used  for meta-analysis / systematic review purposes. For more information on the TERMS OF USE , see https://www.nlm.nih.gov/databases/download/terms_and_conditions.html
 
 The training and testing datasets curated by the Imageable Genome team and used to generate the pre-trained TC and NER models included in the *imagenome* package are not publicly available at the moment due to copyright issues that need to be resolved. 
 
