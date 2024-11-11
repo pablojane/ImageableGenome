@@ -98,4 +98,6 @@ https://www.nlm.nih.gov/databases/download/pubmed_medline.html) and were only us
 
 The training and testing datasets curated by the Imageable Genome team and used to generate the pre-trained TC and NER models included in the *imagenome* package are not publicly available at the moment due to copyright issues that need to be resolved. 
 
+The NER and text classifier models can ONLY be used for research and academic purposes. Its comercial use is not allowed.
+
 *imagenome* is copyright (C) 2023 of Pablo Jané and is distributed under the terms of the [Affero GNU General Public License (GPL) version 3](./LICENSE) or later.
